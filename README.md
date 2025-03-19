@@ -16,8 +16,7 @@ El **Amigo Secreto Desafío** permite a un grupo de personas asignarse secretame
 ## Tecnologías utilizadas
 
 - **Lenguaje**: JavaScript
-- **Entorno**: Node.js (si se utiliza en el backend o para ejecutar el código de forma local)
-- **Otros**: HTML, CSS (si tienes una interfaz web)
+
   
 ## Instalación
 
